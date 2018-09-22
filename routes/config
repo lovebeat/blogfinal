@@ -1,0 +1,80 @@
+1. hpt
++ getItem:0
++ getServer:1
++ getBalance:1
++ getTrans:0
++ getRole:1
+key: 61Cc2Vz71pWzlOkiFlchEkv5brFsKLiF
+walletID: HPT
+
+2. cack
++ getItem:0
++ getServer:1
++ getBalance:1
++ getTrans:1
++ getRole:0
+key: V8GRT9HsofS5wEE4Cs9eLFQ8c8iycbaW
+walletID: CACK
+
+3. gt3qm
++ getItem: 0
++ getServer: 1 
++ getBalance: 1
++ getTrans: 1
++ getRole: 1
+key: 0LEyAO9Djy4BEj3wvMea2G4v6udjD2Pt
+walletID: 3QMOBILE
+
+4. stct (từ từ nha a đạt)
++ getItem: 0
++ getServer: 1
++ getBalance:1
++ getTrans: 
++ getRole:1
+key: 
+walletID: 
+
+5. sgm
++ getItem:0
++ getServer:0
++ getBalance:0
++ getTrans:1
++ getRole:1
+key: k có wallet
+walletID: 
+
+6. nsbd     
++ getRole: 1
++getServer: 1
++getItem: 0
++getAppTrans: 1
++getBalance: 1
+key wallet: kkkfRh03Vj1AFqv20vVyi2pbkgl2P2FZ
+walletID: nsbd
+
+7. ddvs
++ getRole: 1
++getServer: 1
++getItem: 0
++getAppTrans: 1
++getBalance: 1
+key wallet: FK3W9QQXDanfxUWxfu5BPZ9gpmct0oyt
+walletID: ddvs
+
+8.vdkk
++ getRole: 1
++getServer: 1
++getItem: 1
++getAppTrans: 1
++getBalance: 1
+key wallet: 4DoIeAI57sb8uvVIVB5kWanfgMUjubmm
+walletID: vdkk
+
+9.thiennu
++ getRole: 1
++getServer: 1
++getItem: 0
++getAppTrans: 1
++getBalance: 1
+key wallet: RtL3maMtyEuu6mNJoOoQsRh3CFykUSBB
+walletID: thiennu
